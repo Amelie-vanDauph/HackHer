@@ -123,7 +123,7 @@ def authenticate(username, password):
         return False
 
 # Add the banner image
-st.image("/Users/amvm/HackHer/hackHer tricolour savings banner.png", use_container_width=True)
+st.image("hackHer tricolour savings banner.png", use_container_width=True)
 
 
 # Create a container and apply the centered style
